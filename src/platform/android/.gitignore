@@ -1,0 +1,10 @@
+# Gradle
+.cxx/
+.gradle/
+build/
+app/build/
+local.properties
+
+# External dependencies fetched by build-apk.sh
+SDL2/
+keystore.properties
